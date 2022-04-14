@@ -1,5 +1,9 @@
 # aurora
 
+AURORA - Automatic Registration Result Assessor
+
+This app is used to compare the performance of various automatic registration algorithms with the goal of identifying the most suitable algorithm for the given dataset, increasing clinical registration accuracy and reducing time by eliminating the need for manual registration.
+
 MATLAB is required for use of the app (available for Windows/Mac/Linux).
 
 To run the app, simply open the .mlapp file in MATLAB and run.
